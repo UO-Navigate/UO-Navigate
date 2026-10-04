@@ -1,9 +1,9 @@
-UO NAVIGO
+UO NAVIGATE
 
 =========
 
 
-Team Name: UO NAVIGO
+Team Name: UO NAVIGATE
 
 
 Team Member Names: 
@@ -17,6 +17,6 @@ Areej Chkir - Student Number 300521764
 Product Name: UO NAVIGO
 
 Product Description:
-UO Navigo is an interactive 3d map of the uOttawa campus that helps 
+UO Navigate is an interactive 3d map of the uOttawa campus that helps 
 students and staff quickly find essential facilities such as libraries, printers,
 AEDs, study spaces, cafeterias, and more.
