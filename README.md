@@ -14,7 +14,7 @@ Haytam Besri - Student Number 300548679
 Areej Chkir - Student Number 300521764
 
 
-Product Name: UO NAVIGO
+Product Name: UO NAVIGATE
 
 Product Description:
 UO Navigate is an interactive 3d map of the uOttawa campus that helps 
